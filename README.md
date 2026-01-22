@@ -42,18 +42,8 @@ Kod yazarken:
   - Veri odaklı karar mekanizmaları
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=250&section=header&text=BETÜL%20GÜLEÇ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20|%20Android%20|%20iOS&descAlignY=55"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=260&text=Mobile%20App%20Developer&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Android%20•%20iOS%20•%20Kotlin%20•%20Swift&descAlignY=60"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0F2027&height=250&text=BETÜL%20GÜLEÇ&fontSize=46&fontColor=ffffff&desc=Mobile%20Application%20Developer%20|%20AI%20Powered%20Apps&descAlignY=65"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=180&text=Mobile%20App%20Developer&fontSize=40&fontColor=ffffff"/>
-</p>
+
+
 
 
 
@@ -62,7 +52,7 @@ Kod yazarken:
 ---
 ## 💼 Deneyim
 
-### 🚀 Flutter Developer — **NeonApps**
+###  Flutter Developer — **NeonApps**
 📍 *Devam Ediyor*
 
 - **Clean Architecture** prensipleriyle modüler ve **ölçeklenebilir Flutter uygulamaları** geliştirme
@@ -73,7 +63,7 @@ Kod yazarken:
 
 ---
 
-### 🏛️ Mobile Developer — **Eyüp Sultan Belediyesi**
+###  Mobile Developer — **Eyüp Sultan Belediyesi**
 📍 *Proje Bazlı*
 
 - **React Native** ile **component-based** ve **state-managed** mobil uygulamalar geliştirme
@@ -92,7 +82,7 @@ Kod yazarken:
 
 ---
 
-## 🧪 Teknik Projeler
+##  Teknik Projeler
 
 ### 📱 Social Media Mobile App (2025)
 **Flutter · Clean Architecture · Cubit · Firebase**
@@ -130,7 +120,7 @@ Kod yazarken:
 
 
 
-## 🛠️ Teknoloji Stack’i
+##  Teknoloji Stack’i
 
 ### 📱 Mobil
 <p>
@@ -141,7 +131,7 @@ Kod yazarken:
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react"/>
 </p>
 
-### 🌐 Backend & Yapay Zekâ
+###  Backend & Yapay Zekâ
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
@@ -151,7 +141,7 @@ Kod yazarken:
 
 ---
 
-## 🤖 Teknik Projeler
+##  Teknik Projeler
 
 ### 🔹 AI Destekli Mobil Uygulamalar
 - **CNN tabanlı duygu analizi**
@@ -167,7 +157,7 @@ Kod yazarken:
 
 ---
 
-## 📊 GitHub İstatistikleri
+## GitHub İstatistikleri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bbetulgulec&show_icons=true&theme=radical&hide_border=true"/>
@@ -179,22 +169,15 @@ Kod yazarken:
 
 ---
 
-## 🌍 Bana Ulaş
+##  Bana Ulaş
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/betül-güleç-0b8071254">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  <a href="mailto:gulecbetulofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
 
-<p align="center">
-  🔑 <b>Anahtar Kelimeler:</b> Scalability · State Management · REST API · Clean Architecture · CNN · Mobil Performans
-</p>
