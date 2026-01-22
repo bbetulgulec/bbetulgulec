@@ -3,40 +3,132 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=250&section=header&text=%20BETÜL GÜLEÇ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer%20|%20Flutter%20|%20Android%20|%20AI&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=250&section=header&text=BETÜL%20GÜLEÇ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer%20|%20IOS%20|%20Android%20|%20AI&descAlignY=55"/>
+</p>
+
+---
+##  Hakkımda
+
+Merhaba!   
+Ben **ölçeklenebilir**, **yüksek performanslı** ve **temiz mimari** prensiplerini merkezine alan mobil uygulamalar geliştiren bir **Mobile Application Developer**’ım.
+
+Kod yazarken:
+-  **Bakımı kolay mimariler**
+-  **Akıcı ve hızlı kullanıcı deneyimi**
+-  **Doğru teknoloji – doğru problem** eşleşmesi  
+önceliğimdir.
+
+---
+
+### Full-Stack Mobile Development
+- 🚀 **Flutter** — *Cross-Platform, modern UI, performans odaklı*
+- 🤖 **Kotlin** — *Native Android*
+- ☕ **Java** — *Native Android (Jetpack Compose)*
+- ⚛️ **React Native** — *Cross-Platform çözümler*
+
+---
+
+###  API, Performans & Mimari
+-  **REST API** entegrasyonları
+-  Performans optimizasyonu & state yönetimi
+-  Modüler, test edilebilir ve **ölçeklenebilir** kod yapıları
+
+---
+
+###  Backend & AI
+-  **Node.js** & **Firebase** tabanlı backend çözümleri
+-  **AI entegrasyonlu mobil uygulamalar**
+  - Akıllı özellikler
+  - Veri odaklı karar mekanizmaları
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=250&section=header&text=BETÜL%20GÜLEÇ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20|%20Android%20|%20iOS&descAlignY=55"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=260&text=Mobile%20App%20Developer&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Android%20•%20iOS%20•%20Kotlin%20•%20Swift&descAlignY=60"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0F2027&height=250&text=BETÜL%20GÜLEÇ&fontSize=46&fontColor=ffffff&desc=Mobile%20Application%20Developer%20|%20AI%20Powered%20Apps&descAlignY=65"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=180&text=Mobile%20App%20Developer&fontSize=40&fontColor=ffffff"/>
 </p>
 
 
-## 🚀 Hakkımda
 
-Ben **ölçeklenebilir**, **yüksek performanslı** ve **temiz mimari** prensiplerine sahip mobil uygulamalar geliştiren bir **Mobile Application Developer**’ım.
 
-- 📱 **Full-Stack Mobile Development**
-  - **Flutter** (Clean Architecture, Cubit, State Management)
-  - **Kotlin / Java** (Native Android)
-  - **React Native**
-- ⚙️ **REST API** entegrasyonları ve performans optimizasyonu
-- 🤖 **Backend & AI**
-  - **Node.js**, **Firebase**
-  - **CNN tabanlı Deep Learning modellerinin** mobil uygulamalara entegrasyonu
-- 🏢 Şu anda **NeonApps**’te **Flutter Developer** olarak çalışıyorum
-
-🎯 Odak noktam: **Scalability**, sürdürülebilir kod ve gerçek kullanıcıya dokunan ürünler.
 
 ---
-
 ## 💼 Deneyim
 
-### 🚀 Flutter Developer — **NeonApps**  
+### 🚀 Flutter Developer — **NeonApps**
 📍 *Devam Ediyor*
 
-- **Clean Architecture** ile ölçeklenebilir Flutter projeleri
-- **Cubit tabanlı State Management**
-- **REST API** ve Firebase servis entegrasyonları
-- Yüksek performanslı ve modüler mobil mimariler
-- UI/UX ve backend ekipleriyle yakın çalışma
+- **Clean Architecture** prensipleriyle modüler ve **ölçeklenebilir Flutter uygulamaları** geliştirme
+- **Cubit tabanlı State Management** ile reaktif ve sürdürülebilir mimari kurgulama
+- **RESTful API** ve **Firebase** servisleriyle uçtan uca veri senkronizasyonu
+- **Local Notification**, **Firebase Authentication**, **Firestore** ve **FCM** entegrasyonları
+- UI/UX ve backend ekipleriyle yakın iş birliği içinde, **yüksek performanslı** mobil çözümler üretme
 
 ---
+
+### 🏛️ Mobile Developer — **Eyüp Sultan Belediyesi**
+📍 *Proje Bazlı*
+
+- **React Native** ile **component-based** ve **state-managed** mobil uygulamalar geliştirme
+- **Node.js**, **Express** ve **Sequelize** kullanarak **RESTful API** geliştirme
+- Backend süreçlerini **Postman** ile test etme ve doğrulama
+- Mobil ve backend katmanları arasında güvenli ve senkronize veri akışı sağlama
+
+---
+
+### 🎓 Stajyer Mobile Developer
+
+- **Flutter** ve **Firebase (Auth & Realtime Database)** kullanarak  
+  🔔 *anlık veri senkronizasyonu*, *alarm* ve *acil durum* özelliklerine sahip  
+  **“İlaç Takip Sistemi”** geliştirme
+- Gerçek zamanlı veri yönetimi ve kullanıcı etkileşimine odaklı mobil mimari tasarımı
+
+---
+
+## 🧪 Teknik Projeler
+
+### 📱 Social Media Mobile App (2025)
+**Flutter · Clean Architecture · Cubit · Firebase**
+- Firebase Authentication, Firestore ve FCM entegrasyonları
+- Local Notification destekli etkileşimli sosyal medya uygulaması
+
+---
+
+### 🎵 Emotion Analysis Music Application (2025 – Mezuniyet Tezi)
+**CNN · FastAPI · Log-Mel Spectrogram · Transfer Learning · Java · XML**
+- CNN mimarisi ile duygu analizi
+- Müzik verilerinden özellik çıkarımı ve duyguya dayalı analiz sistemi
+
+---
+
+### 🧠 Brain Tumor Detection & Classification (2025)
+**CNN Architecture · MATLAB**
+- Beyin tümörü tespiti ve sınıflandırması
+- Görüntü işleme ve derin öğrenme tabanlı analiz
+
+---
+
+### 🍎 CalorieMeter Mobile App (2023)
+**Android Studio · Java · XML · Firebase**
+- Firebase Realtime Database & Authentication
+- Kullanıcı odaklı, veri tabanlı mobil uygulama geliştirme
+
+---
+
+### 📚 Smart Library Website (2025)
+**MSSQL · JDBC · Docker · Log4j · JUnit**
+- JDBC tabanlı veri yönetimi
+- Docker ile containerization
+- Loglama ve birim testleri
+
+
 
 ## 🛠️ Teknoloji Stack’i
 
@@ -78,11 +170,11 @@ Ben **ölçeklenebilir**, **yüksek performanslı** ve **temiz mimari** prensipl
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bbetulgulec&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbetulgulec&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
